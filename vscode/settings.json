@@ -1,0 +1,12 @@
+{
+  "workbench.colorTheme": "Visual Studio Light",
+  "window.zoomLevel": -1,
+  "files.autoGuessEncoding": true,
+  "editor.mouseWheelZoom": true,
+  "redhat.telemetry.enabled": true,
+  "editor.tabSize": 2,
+  "remote.onstartup": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.trimTrailingWhitespace": true
+}
